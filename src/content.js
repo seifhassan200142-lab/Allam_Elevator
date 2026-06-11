@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = '201000000000'
+export const WHATSAPP_NUMBER = '201128361142'
 
 export const FACEBOOK_URL =
   'https://www.facebook.com/people/Allam-elevators-%D9%85%D8%B5%D8%A7%D8%B9%D8%AF-%D8%B9%D9%84%D8%A7%D9%85/61558660593043/?rdid=b6PbPeFBA41KDLcy&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ahUPV42h9%2F'
@@ -149,9 +149,9 @@ export const content = {
       selectPlaceholder: 'Select building type',
       buildingTypes: ['Villa', 'Residential Building', 'Commercial Building', 'Hospital / Clinic', 'Freight / Service', 'Other'],
       infoTitle: 'Contact details',
-      phonePlaceholder: '+20 100 000 0000',
+      phonePlaceholder: '+20 1128361142',
       cityPlaceholder: 'Egypt',
-      emailPlaceholder: 'info@example.com',
+      emailPlaceholder: 'A.allam4297@gmail.com',
       hoursPlaceholder: 'Service availability to be confirmed',
       facebook: 'Visit Facebook',
       whatsapp: 'Open WhatsApp',
